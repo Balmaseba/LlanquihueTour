@@ -25,7 +25,7 @@ Estructura general del proyecto
 
 ---
 
-Repositorio GitHub: 
+Repositorio GitHub: https://github.com/Balmaseba/LlanquihueTour 
 Fecha de entrega: 08/06/2026
 
 ---
