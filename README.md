@@ -17,21 +17,15 @@ Estructura general del proyecto
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Empleado, Dirección.)
 
-⚙️ Instrucciones para clonar y ejecutar el proyecto
+⚙️ Instrucciones para ejecutar el proyecto
 
-1. Clona el repositorio desde GitHub:
+1. Abre el proyecto en IntelliJ IDEA.
 
-```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
-```
-
-2. Abre el proyecto en IntelliJ IDEA.
-
-3. Ejecuta el archivo `Main.java` desde el paquete `app`.
+2. Ejecuta el archivo `Main.java` desde el paquete `app`.
 
 ---
 
-Repositorio GitHub: \[Pega aquí el enlace al repositorio
+Repositorio GitHub: 
 Fecha de entrega: 08/06/2026
 
 ---
